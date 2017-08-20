@@ -6,6 +6,9 @@ public class Hello {
 		// TODO Auto-generated method stub
 
 	}
+	public void newmethod(){
+		
+	}
 	
 	
 
