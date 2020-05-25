@@ -818,6 +818,15 @@
                     }
                 ]
             },
+            "parameters": [
+                {
+                    "name": "test123",
+                    "description": "",
+                    "in": "query",
+                    "required": false,
+                    "type": "string"
+                }
+            ],
             "x-amf-displayName": "Car Locations"
         }
     },
